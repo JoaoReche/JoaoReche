@@ -22,4 +22,4 @@
   - 🧑🏻‍💻 Estou cursando Análise e Desenvolvimento de Sistemas, FATEC Sorocaba<br>
   - 📒 Estou aprendendo React
   
-  ![Snake animation](https://github.com/JoaoReche/JoaoReche/blob/output/github-contribution-grid-snake.svg)
+<!--  ![Snake animation](https://github.com/JoaoReche/JoaoReche/blob/output/github-contribution-grid-snake.svg) -->
