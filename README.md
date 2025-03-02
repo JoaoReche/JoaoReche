@@ -23,5 +23,3 @@
   - 📒 Estou aprendendo React
   
   ![Snake animation](https://github.com/JoaoReche/JoaoReche/blob/output/github-contribution-grid-snake.svg)
-
-  [![readme](https://github-readme-stats.vercel.app/api/pin/?username=JoaoReche&repo=JoaoReche&theme=react)](https://github.com/JoaoReche/JoaoReche).
