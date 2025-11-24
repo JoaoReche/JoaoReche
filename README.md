@@ -8,7 +8,7 @@
   <!-- <a href="https://github.com/JoaoReche">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoReche&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoReche&layout=compact&langs_count=7&theme=dark"/> -->
-  [!Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoReche=compact&theme=radical)
+  ![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoReche=compact&theme=radical)
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Joao-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
