@@ -1,23 +1,18 @@
-## Olá! Sou o João Reche
-
-<div>
-  <a href = "mailto:jvreche.contato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/joão-reche" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-<div>
-  <br>
-  
-  ![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoReche&layout=compact&theme=dracula)
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Joao-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Joao-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Joao-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Joao-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="right" alt="Joao-pic" height="150" style="border-radius:50px;" src="https://media.tenor.com/2yzvgWyZK7kAAAAi/animation-pixel-art.gif">
-</div>
-
-##
+# Olá! Sou o João Reche
 
   - 💻 Estou cursando Análise e Desenvolvimento de Sistemas, FATEC Sorocaba<br>
-  - 📒 Estou aprendendo React e C#
+  - 📒 Estou aprendendo Typescript
+
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoreche&layout=compact&theme=radical)
+    
+## 🧠 Linguagens
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+[![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+<img align="right" alt="cynthia-gif" height="180" style="border-radius:50px;" src="https://media.tenor.com/2yzvgWyZK7kAAAAi/animation-pixel-art.gif">
+
+## 🔗 Contatos
+<a href = "mailto:jvreche.contato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/joão-reche" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
